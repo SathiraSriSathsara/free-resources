@@ -1,7 +1,9 @@
 # Free Resources
-These are some free resources I found on internet. 
-
-
+<b><center>Hello I'm Sathira Sri Sathsara, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></center><br>
+<br>I recently came across a range of valuable free resources available on the internet. One of the highlights is the availability of free Virtual Private Servers (VPS), which provide users with a dedicated environment for hosting websites or running applications. Additionally, there are free database options that allow individuals and businesses to store and manage their data efficiently. The internet also offers various free courses, enabling individuals to expand their knowledge and learn new skills in diverse fields. Another fantastic resource is free cloud storage services, such as Google Drive, where users can securely store and access their files from anywhere. Moreover, there are free web hosting services that empower individuals to publish their websites online without any cost. These resources collectively contribute to a more accessible and inclusive digital landscape, opening up opportunities for individuals and businesses to explore and thrive.<b> <br>
+<br>
+<img src="tittle.jpg">
+<br>
 ## Virtual Privet Server 
 
 * [NeverInstall](https://neverinstall.com/)
